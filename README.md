@@ -1,5 +1,5 @@
 # la tele
-## Sitio: https://alplox.github.io/la-tele/
+## Sitio: https://navezjt.github.io/la-tele/
 
 [![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/v0.9.jpg)](https://alplox.github.io/la-tele/)
 
