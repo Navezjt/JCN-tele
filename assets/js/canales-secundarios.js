@@ -772,10 +772,6 @@ https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1479" tvg-name="Fortaleza TV" tvg-logo="https://i2.paste.pics/34c6e0cc1a8eccd67342a70fb2281c7c.png", Fortaleza TV | CL
 https://multimedia.fortalezatv.cl/video/video.m3u8
 https://multimedia.fortalezatv.cl/video/video.m3u8
-`
-// https://m3u.cl/lista-iptv-peru.php
-let m3u = `
-#EXTM3U 
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1509" tvg-name="Peruvisual" tvg-logo="https://cdn.m3u.cl/logo/1509_Peruvisual.png", Peruvisual ✪ | PE
