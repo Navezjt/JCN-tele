@@ -1,6 +1,6 @@
 /* 
 Main v0.9
-por Alplox 
+por Navezjt 
 */
 
 const overlay = document.querySelector('.overlay'), 
@@ -198,7 +198,7 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 
 // PARA LISTADO PRIMARIO
-fetch('https://raw.githubusercontent.com/Alplox/la-tele/main/assets/js/canales.json')
+fetch('https://raw.githubusercontent.com/Navezjt/JCN-TV/main/assets/js/canales.json')
   .then(response => response.json())
   .then(data => {
     let fragmentBtns = document.createDocumentFragment();
