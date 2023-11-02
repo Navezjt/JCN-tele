@@ -1,5 +1,5 @@
 # la tele
-## Sitio: https://navezjt.github.io/la-tele/
+## Sitio: https://navezjt.github.io/JCN-TV/
 
 [![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/v0.9.jpg)](https://alplox.github.io/la-tele/)
 
