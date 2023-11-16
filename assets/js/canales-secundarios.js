@@ -36,7 +36,7 @@ function m3utojson(m3u) {
 
 
 
-// https://www.m3u.cl/iptv-chile.php
+// https://m3u.cl/lista-iptv-total.php
 let m3u = `
 #EXTM3U
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV * | CL
