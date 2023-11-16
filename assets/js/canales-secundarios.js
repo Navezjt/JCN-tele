@@ -876,7 +876,7 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1490" tvg-name="Vision Sur Television" tvg-logo="https://cdn.m3u.cl/logo/1490_Vision_Sur_Television.png", Vision Sur Television | PE
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1183" tvg-name="VZ TV" tvg-logo="https://cdn.m3u.cl/logo/1183_VZ_TV.png", VZ TV | PE
+#EXTINF:-1 tvg-id="1183" tvg-name="VZ TV" tvg-logo="https://cdn.m3u.cl/logo/1183_VZ_TV.png", VZ TV | PE 
 https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1536" tvg-name="Sinai TV" tvg-logo="https://cdn.m3u.cl/logo/1536_Sinai_TV.png", Sinai TV | PE
 https://stmv1.voxhdnet.com/segundonehemias5770/segundonehemias5770/playlist.m3u8?PlaylistM3UCL
