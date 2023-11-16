@@ -771,9 +771,8 @@ https://stmv2.zcasthn.com.br/escuchame/escuchame/playlist.m3u8
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1479" tvg-name="Fortaleza TV" tvg-logo="https://i2.paste.pics/34c6e0cc1a8eccd67342a70fb2281c7c.png", Fortaleza TV | CL
 https://multimedia.fortalezatv.cl/video/video.m3u8
-TVporcableiptv TVporcableiptv
 #EXTM3U
-#EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", Willax Televisión
+#EXTINF:-1 tvg-id="PE | Willax Televisión TVporcableiptv" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png" group-title="PERU", Willax Televisión
 http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/135819.m3u8
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", Latina Televisión
 http://daleplay.club:8080/live/listatbsdaleplay22/listatbsdaleplaypararepetircanales/135821.m3u8
