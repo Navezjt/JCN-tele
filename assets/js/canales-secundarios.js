@@ -878,7 +878,6 @@ https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8?PlaylistM3UCL
 https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1536" tvg-name="Sinai TV" tvg-logo="https://cdn.m3u.cl/logo/1536_Sinai_TV.png", Sinai TV | PE
 https://stmv1.voxhdnet.com/segundonehemias5770/segundonehemias5770/playlist.m3u8?PlaylistM3UCL
-https://stmv1.voxhdnet.com/segundonehemias5770/segundonehemias5770/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1479" tvg-name="Fortaleza TV" tvg-logo="https://i2.paste.pics/34c6e0cc1a8eccd67342a70fb2281c7c.png", Fortaleza TV | CL
 https://multimedia.fortalezatv.cl/video/video.m3u8
 https://multimedia.fortalezatv.cl/video/video.m3u8
