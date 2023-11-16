@@ -36,7 +36,7 @@ function m3utojson(m3u) {
 
 
 
-// https://m3u.cl/lista-iptv-total.php
+// https://m3u.cl/lista-iptv-total.php 
 let m3u = `
 #EXTM3U 
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
