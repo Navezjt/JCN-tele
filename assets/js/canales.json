@@ -814,44 +814,62 @@
     },
     "bestSportTV": {
         "nombre": "📷 bestSportTV",
-        "yt_embed": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablesports&stream=bestcablesports",
+        "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablesports&stream=bestcablesports",
         "fuente": "https://bestcableperu.com.pe/lima/enVivo/bestSportTV",
         "pais": "pe"
     },
     "bestTV": {
         "nombre": "📷 bestTV",
-        "yt_embed": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcable&stream=bestcable",
+        "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcable&stream=bestcable",
         "fuente": "https://bestcableperu.com.pe/lima/enVivo/bestSportTV",
         "pais": "pe"
     },
     "bestMusicTV": {
         "nombre": "📷 bestMusicTV",
-        "yt_embed": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablemusic&stream=bestcablemusic",
+        "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablemusic&stream=bestcablemusic",
         "fuente": "https://bestcableperu.com.pe/lima/enVivo/bestSportTV",
         "pais": "pe"
     },
     "bestCumbiaTV": {
         "nombre": "📷 bestCumbiaTV",
-        "yt_embed": "https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline",
+        "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline",
         "fuente": "https://bestcableperu.com.pe/lima/enVivo/bestSportTV",
         "pais": "pe"
     },
     "atv": {
         "nombre": "📷 ATV",
-        "yt_embed": "https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8",
+        "m3u8_url": "https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8",
         "fuente": "https://www.atv.pe/envivo-atv",
         "pais": "pe"
     },
-    "bestCumbiaTV": {
-        "nombre": "📷 bestCumbiaTV",
-        "yt_embed": "https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8",
+    "ATVmas": {
+        "nombre": "📷 ATVmas",
+        "m3u8_url": "https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8",
         "fuente": "https://www.atv.pe/envivo-atv",
         "pais": "pe"
     },
-    "bestCumbiaTV": {
-        "nombre": "📷 bestCumbiaTV",
-        "yt_embed": "https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8",
+    "ATVSur": {
+        "nombre": "📷 ATVSur",
+        "m3u8_url": "https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8",
         "fuente": "https://www.atv.pe/envivo-atv",
+        "pais": "pe"
+    },
+    "willax": {
+        "nombre": "📷 willax",
+        "iframe_url": "https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1",
+        "fuente": "https://willax.pe/en-vivo",
+        "pais": "pe"
+    },
+    "AMERICATV": {
+        "nombre": "📷 AMERICATV",
+        "iframe_url": "https://mdstrm.com/live-stream/6099b04d9418ac082441dd74?jsapi=true&pause_ad_on_click=false&show_controls_on_ad=true&autoplay=true&player=60c2a74e0f4668082e309af4&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&access_token=UbQ2lsekB3t8nS8DWNKUDBvOZGroGaB1cWJcW8QC7uhmiwAVdFfdOpHMcRk3wlUdTbdKTPGoms5&c=&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fiu%3D%2F84748259%2Ftvgo_home_atf_player%26description_url%3D%5Bplaceholder%5D%26tfcd%3D0%26npa%3D0%26sz%3D640x480%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&youbora[extra][0]=NoRegNoSusc&youbora[extra][1]=TVGO%20Web&youbora[extra][2]=tvgo-web",
+        "fuente": "https://tvgo.americatv.com.pe/",
+        "pais": "pe"
+    },
+    "LATINA": {
+        "nombre": "📷 LATINA",
+        "iframe_url": "https://rudo.video/live/latina",
+        "fuente": "https://www.latina.pe/tvenvivo",
         "pais": "pe"
     },
     "globovision": {
