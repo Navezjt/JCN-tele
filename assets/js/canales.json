@@ -812,6 +812,48 @@
         "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
         "pais": "pe"
     },
+    "bestSportTV": {
+        "nombre": "📷 bestSportTV",
+        "yt_embed": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablesports&stream=bestcablesports",
+        "fuente": "https://bestcableperu.com.pe/lima/enVivo/bestSportTV",
+        "pais": "pe"
+    },
+    "bestTV": {
+        "nombre": "📷 bestTV",
+        "yt_embed": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcable&stream=bestcable",
+        "fuente": "https://bestcableperu.com.pe/lima/enVivo/bestSportTV",
+        "pais": "pe"
+    },
+    "bestMusicTV": {
+        "nombre": "📷 bestMusicTV",
+        "yt_embed": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablemusic&stream=bestcablemusic",
+        "fuente": "https://bestcableperu.com.pe/lima/enVivo/bestSportTV",
+        "pais": "pe"
+    },
+    "bestCumbiaTV": {
+        "nombre": "📷 bestCumbiaTV",
+        "yt_embed": "https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline",
+        "fuente": "https://bestcableperu.com.pe/lima/enVivo/bestSportTV",
+        "pais": "pe"
+    },
+    "atv": {
+        "nombre": "📷 ATV",
+        "yt_embed": "https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atv",
+        "pais": "pe"
+    },
+    "bestCumbiaTV": {
+        "nombre": "📷 bestCumbiaTV",
+        "yt_embed": "https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atv",
+        "pais": "pe"
+    },
+    "bestCumbiaTV": {
+        "nombre": "📷 bestCumbiaTV",
+        "yt_embed": "https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atv",
+        "pais": "pe"
+    },
     "globovision": {
         "nombre": "Globovisión En Vivo",
         "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
