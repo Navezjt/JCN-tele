@@ -872,6 +872,48 @@
         "fuente": "https://www.latina.pe/tvenvivo",
         "pais": "pe"
     },
+    "XTV": {
+        "nombre": "📷 XTV",
+        "iframe_url": "https://vdo.panelchs.com/live-stream-video-widget/xtvcontrol",
+        "fuente": "https://xtv.pe/",
+        "pais": "pe"
+    },
+    "zona-film": {
+        "nombre": "📷 Zona Film",
+        "iframe_url": "https://vdo.panelchs.com/live-stream-video-widget/do9373639",
+        "fuente": "https://xtv.pe/canal-zona-film/",
+        "pais": "pe"
+    },
+    "xtvcumbia": {
+        "nombre": "📷 xtvcumbia",
+        "iframe_url": "https://vdo.panelchs.com/live-stream-video-widget/vdo82376947328",
+        "fuente": "https://xtv.pe/xtvcumbia/",
+        "pais": "pe"
+    },
+    "doble-aa": {
+        "nombre": "📷 Doble aa",
+        "iframe_url": "https://videoserver.tmcreativos.com:2020/VideoPlayer/yvmgbdpqmp",
+        "fuente": "https://dobleaamedios.com/tv",
+        "pais": "pe"
+    },
+    "doble-aa": {
+        "nombre": "📷 doble-c",
+        "m3u8_url": "https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8",
+        "fuente": "https://doblectelevision.com/",
+        "pais": "pe"
+    },
+    "canal-33": {
+        "nombre": "📷 Canal 33",
+        "m3u8_url": "https://video2.getstreamhosting.com:19360/8206/8206.m3u8",
+        "fuente": "https://www.canal33ayacucho.com/",
+        "pais": "pe"
+    },
+    "canali": {
+        "nombre": "Canali",
+        "iframe_url": "https://lorini.net/canali/",
+        "fuente": "https://canal-i.com/",
+        "pais": "ve"
+    },
     "globovision": {
         "nombre": "Globovisión En Vivo",
         "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
