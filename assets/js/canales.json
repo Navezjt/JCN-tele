@@ -747,13 +747,19 @@
     },
     "atv": {
         "nombre": "ATV",
-        "m3u8_url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8",
+        "m3u8_url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
         "fuente": "https://www.atv.pe/envivo-atv",
         "pais": "pe"
     },
     "atv-mas": {
         "nombre": "ATV Más",
-        "m3u8_url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8",
+        "m3u8_url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atvmas",
+        "pais": "pe"
+    },
+    "atv-mas1": {
+        "nombre": "ATV Más1",
+        "m3u8_url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8",
         "fuente": "https://www.atv.pe/envivo-atvmas",
         "pais": "pe"
     },
