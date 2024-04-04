@@ -769,7 +769,6 @@ https://webtvca.autoplayout.com/hls/0/stream.m3u8
 https://stmv2.zcasthn.com.br/escuchame/escuchame/playlist.m3u8
 #EXTINF:-1 tvg-id="1480" tvg-name="Fortaleza Radio" tvg-logo="https://i2.paste.pics/1f09fb712957263bd30cc502ce6b9670.png", Fortaleza Radio | CL
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
-#EXTM3U 
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1513" tvg-name="Kan 11" tvg-logo="https://cdn.m3u.cl/logo/1513_Kan_11.png", Kan 11 ✪ | IL
