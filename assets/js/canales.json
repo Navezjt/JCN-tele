@@ -60,6 +60,7 @@
     "meganoticias": {
         "nombre": "Meganoticias",
         "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
+        "fuente": "https://www.youtube.com/meganoticiasoficial",
         "pais": "cl"
     },
     "meganoticias-2": {
@@ -80,8 +81,8 @@
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
     },
-    "mega-2": {
-        "nombre": "Mega 2",
+    "mega-4": {
+        "nombre": "Mega 4",
         "m3u8_url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
