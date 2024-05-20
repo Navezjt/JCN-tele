@@ -174,7 +174,7 @@ BOTON_ALTERNAR_VISIBILIDAD_OVERLAY.addEventListener('click', () => {
 });
 
 // MARK: Fetch primario
-fetch('https://raw.githubusercontent.com/Alplox/json-teles/main/canales.json')
+fetch('https://raw.githubusercontent.com/Navezjt/CNT/main/cn.json')
   .then(response => response.json())
   .then(data => {
     const FRAGMENT_CONTENEDOR_BOTONES_LISTA_PRINCIPAL = document.createDocumentFragment();
