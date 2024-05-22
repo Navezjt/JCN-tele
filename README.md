@@ -36,6 +36,6 @@
 ```
 
 ## Licencia
-⚖️ [MIT License](https://github.com/Alplox/la-tele/blob/main/LICENSE)
+⚖️ [MIT License](https://github.com/Navezjt/JCN-TV/blob/main/LICENSE)
 
-[![Visits Badge](https://badges.strrl.dev/visits/Alplox/la-tele)](https://badges.strrl.dev)
+[![Visits Badge](https://badges.strrl.dev/visits/Navezjt/JCN-TV)](https://badges.strrl.dev)
