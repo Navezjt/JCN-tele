@@ -2,8 +2,8 @@
 
 ## Sitio: https://navezjt.github.io/JCN-TV/
 
-[![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/Previews/shots_la_tele_v0-10.jpg)](https://navezjt.github.io/JCN-TV/)
-[![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/Previews/shots_la_tele_movil_v0-10.jpg)](https://navezjt.github.io/JCN-TV/)
+[![](https://raw.githubusercontent.com/Navezjt/JCN-TV/master/assets/img/Previews/shots_la_tele_v0-10.jpg)](https://navezjt.github.io/JCN-TV/)
+[![](https://raw.githubusercontent.com/Navezjt/JCN-TV/master/assets/img/Previews/shots_la_tele_movil_v0-10.jpg)](https://navezjt.github.io/JCN-TV/)
 
 ## Listado canales disponibles junto a su fuente
 - Canales principales: https://github.com/Alplox/json-teles?tab=readme-ov-file#canales-disponibles-junto-a-su-origen *solo pertenecientes a Chile
