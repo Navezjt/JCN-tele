@@ -174,7 +174,7 @@ BOTON_ALTERNAR_VISIBILIDAD_OVERLAY.addEventListener('click', () => {
 });
 
 // MARK: Fetch primario
-fetch('https://raw.githubusercontent.com/Navezjt/JCN-TV/main/assets/js/canales.json')
+fetch('https://raw.githubusercontent.com/Alplox/teles/92d8b002d10933c6d54631acffaf6d53034f04e8/assets/data/canales.json')
   .then(response => response.json())
   .then(data => {
     const FRAGMENT_CONTENEDOR_BOTONES_LISTA_PRINCIPAL = document.createDocumentFragment();
@@ -229,7 +229,7 @@ fetch('https://raw.githubusercontent.com/Navezjt/JCN-TV/main/assets/js/canales.j
   .catch(error => console.error('Error fetching data:', error));
 
 // MARK: Fetch secundario (lista m3u)
-fetch('https://raw.githubusercontent.com/Navezjt/NAVEZ-SP/main/spa.m3u')
+fetch('https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u')
   .then(response => response.text())
   .then(data => {
     let parseM3u = M3U_A_JSON(data);
