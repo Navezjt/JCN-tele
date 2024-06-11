@@ -174,7 +174,7 @@ BOTON_ALTERNAR_VISIBILIDAD_OVERLAY.addEventListener('click', () => {
 });
 
 // MARK: Fetch primario
-fetch('https://raw.githubusercontent.com/Alplox/teles/92d8b002d10933c6d54631acffaf6d53034f04e8/assets/data/canales.json')
+fetch('https://raw.githubusercontent.com/Navezjt/JCN-TV/main/assets/js/canales.json')
   .then(response => response.json())
   .then(data => {
     const FRAGMENT_CONTENEDOR_BOTONES_LISTA_PRINCIPAL = document.createDocumentFragment();
