@@ -229,7 +229,7 @@ fetch('https://raw.githubusercontent.com/Alplox/teles/92d8b002d10933c6d54631acff
   .catch(error => console.error('Error fetching data:', error));
 
 // MARK: Fetch secundario (lista m3u)
-fetch('https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cl.m3u')
+fetch('https://raw.githubusercontent.com/iptv-org/iptv/master/streams/pe.m3u')
   .then(response => response.text())
   .then(data => {
     let parseM3u = M3U_A_JSON(data);
