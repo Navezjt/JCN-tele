@@ -206,9 +206,9 @@ BOTON_ALTERNAR_VISIBILIDAD_OVERLAY.addEventListener('click', () => {
 });
 
 function guardarSeñalPreferida(canalId, señalUtilizar = '', indexSeñalUtilizar = 0) {
-    let lsPreferenciasSeñalCanales = JSON.parse(localStorage.getItem('preferencia_señal_canales_JCN_TV')) || {};
+    let lsPreferenciasSeñalCanales = JSON.parse(localStorage.getItem('preferencia_señal_canales_JCNT')) || {};
     lsPreferenciasSeñalCanales[canalId] = { [señalUtilizar]: indexSeñalUtilizar };
-    localStorage.setItem('preferencia_señal_canales_JCN_TV', JSON.stringify(lsPreferenciasSeñalCanales));
+    localStorage.setItem('preferencia_señal_canales_JCNT', JSON.stringify(lsPreferenciasSeñalCanales));
 }
 
 function crearIframe(canalId, tipoSeñalParaIframe, valorIndex = 0) {
@@ -256,7 +256,7 @@ function crearFragmentCanal(canalId) {
     if (listaCanales[canalId]?.señales) {
         let { señales } = listaCanales[canalId]
         let { iframe_url = [], m3u8_url = [], yt_id = '', yt_embed = '', yt_playlist = '', twitch_id = '' } = señales;
-        let lsPreferenciasSeñalCanales = JSON.parse(localStorage.getItem('preferencia_señal_canales_JCN_TV')) || {};
+        let lsPreferenciasSeñalCanales = JSON.parse(localStorage.getItem('preferencia_señal_canales_JCNT')) || {};
 
         let señalUtilizar;
         let valorIndexArraySeñal = 0;
