@@ -1,7 +1,7 @@
 {
     "name": "Canales de Chile a un toque.",
     "description": "Canales de Chile a un toque.",
-    "short_name": "JCTN",
+    "short_name": "JCNT",
     "icons": [
         {
             "src": "./assets/favicon/android-chrome-192x192.png",
@@ -17,7 +17,7 @@
     ],
     "display": "standalone",
 
-    "start_url": "/JCTN/",
+    "start_url": "/JCNT/",
    
 
     "background_color": "#051320",
