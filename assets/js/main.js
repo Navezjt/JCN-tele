@@ -3,7 +3,7 @@
 // MARK: Config
 const URL_JSON_CANALES_PRINCIPAL = 'https://raw.githubusercontent.com/Navezjt/json-teles/main/canales.json';
 const URL_M3U_CANALES_IPTV = 'https://iptv-org.github.io/iptv/categories/news.m3u';
-const TWITCH_PARENT = 'alplox.github.io';
+const TWITCH_PARENT = 'Navezjt.github.io';
 
 const CONTAINER_OVERLAY = document.querySelector('.container-overlay');
 const UL_OVERLAY_SEÑALES = document.querySelector('#lista-señales')
